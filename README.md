@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ([nextmatif](https://github.com/cstmrc3130/nextmatif))
+- 🔭 Latest project ([nextmatif](https://github.com/cstmrc3130/nextmatif))
 - 🌱 I’m currently learning NextJS
-- 📫 How to reach me: [Caesto](https://id.linkedin.com/in/caesto-marco-tampubolon-a74263181)
+- 📫 How to reach me: [Caesto On Linked In](https://id.linkedin.com/in/caesto-marco-tampubolon-a74263181)
 - ⚡ Fun fact: https://guthib.com exists!
 
 
