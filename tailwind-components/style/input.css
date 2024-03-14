@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components
+{
+	.main-title 
+	{
+		/* @apply text-4xl text-rose-500 font-bold text-center; */
+	}
+}
+
+@layer base
+{
+	h1
+	{
+		@apply text-4xl text-rose-500 font-bold text-center;
+	}
+}
